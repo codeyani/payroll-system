@@ -35,7 +35,7 @@ class BankAccountService implements BankAccountServiceInterface
             // Validate the request input
             $request->validate([
                 'bank_name' => 'required|string|max:255',
-                'account_number' => 'required|string|unique:bank_accounts,account_number',
+                'account_no' => 'required|string|unique:bank_accounts,account_number',
             ]);
 
             // Create and return the new bank account
