@@ -39,13 +39,10 @@ cd payroll-system
 
 ### 2. Install Dependencies
 
-Ensure you have Composer installed. Then, run the following command to install the PHP dependencies:
+Ensure you have Composer and Node.js (npm) installed. Then, run the following commands to install the dependencies::
 
 ```bash
 composer install
-```
-
-```bash
 npm install
 ```
 
