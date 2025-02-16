@@ -1,6 +1,7 @@
 
-![Login Screen](screenshot/login-screen.png)
+## Employee Screen
 ![Employee Screen](screenshot/employee-screen.png)
+## HR Screen
 ![HR Screen](screenshot/hr-screen.png)
 
 # Payrol System (Bank Account Change Request)
